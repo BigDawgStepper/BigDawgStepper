@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning: C++
 - 💞️ I’m looking to collaborate on: Game cheats "Rust internals, cs2 cheats,"
 - 📫 How to reach me: thebigdawgstepper@protonmail.com
+- CSHARP HATER!!!!
 
 <!---
 BigDawgStepper/BigDawgStepper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
