@@ -10,8 +10,6 @@
 
 ### 🚀 About Me
 
-I'm a **C++ enjoyer** who also pastes a lot from DeepSeek - at this point I'm basically sponsored by AI 🤑
-
 - 🌱 I’m currently learning: **C++20** 
 - 📫 How to reach me: `thebigdawgstepper@protonmail.com`
 
